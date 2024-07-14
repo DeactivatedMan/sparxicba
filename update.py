@@ -1,3 +1,4 @@
+# Run this script instead of sparxicba.py
 import requests
 from pathlib import Path
 import subprocess

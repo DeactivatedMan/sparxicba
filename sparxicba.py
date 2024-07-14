@@ -1,3 +1,4 @@
+# Run update.py instead of this script
 from tkinter import *
 from tkinter import ttk
 
